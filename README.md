@@ -23,6 +23,11 @@ All these models are trained on the dataset and evaluation of the model is done 
 ## End Results
 From the obtained results of the above models, XGBoost Classifier has highest model performance of 96.6%. So the model is saved to the file 
 
-### Project Demo Video [link](https://youtu.be/dCRaaellqLc)*
+
+## For Running the project in local machine 
+
+Run app.py present in " Hosting Folder "
+
+### Project Demo Video [link](https://youtu.be/dCRaaellqLc)
 
 
